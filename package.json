@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-vuetify-fouc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nuxtjs/vuetify": "^1.9.1",
+    "nuxt": "^2.11.0"
+  }
+}
